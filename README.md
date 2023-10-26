@@ -5,4 +5,6 @@ So, we have a website code.
 1 First we neend a Linux Machine 
 DATA FLOW Goes like that 
 
-User 
+
+                                  aws certified manager
+User Request ------> Route 53  -----------> Cloud Front-----------> S3
